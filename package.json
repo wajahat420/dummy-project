@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "publishConfig": {
+    "@wajahat420:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wajahat420/dummy-project.git"
