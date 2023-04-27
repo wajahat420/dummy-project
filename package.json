@@ -1,6 +1,6 @@
 {
   "name": "@wajahat420/dummy-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dummy project description",
   "main": "index.js",
   "scripts": {
