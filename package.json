@@ -1,0 +1,22 @@
+{
+  "name": "@wajahat420/dummy-project",
+  "version": "1.0.0",
+  "description": "dummy project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wajahat420/dummy-project.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "wajahat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wajahat420/dummy-project/issues"
+  },
+  "homepage": "https://github.com/wajahat420/dummy-project#readme"
+}
